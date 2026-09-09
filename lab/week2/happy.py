@@ -12,7 +12,7 @@ def test_say_happy_birthday2():
     for name in nmaes:
         say_happy_birthday(name)
 
-    def test_happy_birthday3():   
+    def test_say_happy_birthday3():   
     say_happy_birthday(3.14)
     say_happy_birthday(100)
     say_happy_birthday([1,2,3])
