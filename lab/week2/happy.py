@@ -18,4 +18,4 @@ def test_say_happy_birthday3():
     say_happy_birthday([1,2,3])
 
 if __name__ == "__main__":
-    test_say_happy_birthday3()
+    test_say_happy_birthday1()
